@@ -17,10 +17,8 @@ Usage:
   * `git add .`
   * `git commit -m "<YOUR COMMIT MESSAGE HERE>"`
   * `git push`
-  * Explanation: The `hugo` command auto-generates the website code and places it in `public/`, which we then push to [the GitHub Pages repository](https://github.com/gshalini21294/gshalini21294.github.io).
-* After deployment:
   * Wait ~5 minutes for the changes to be reflected on the live site, [gshalini.com](https://gshalini.com/).
-  * Make sure to push the changes to this repository as well!
+  * Add, commit, and push the changes to the `hugo-website-source` repository as well!
 
 Troubleshooting:
 * If you get errors about "failed to resolve output format" when running Hugo: `sudo rm -rf $TMPDIR/hugo_cache/`, then try again.
