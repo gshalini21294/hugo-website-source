@@ -10,3 +10,6 @@ Usage:
 * After deployment:
   * Wait ~5 minutes for the changes to be reflected on the live site, [gshalini.com](https://gshalini.com/).
   * Make sure to push the changes to this repository as well!
+
+Troubleshooting:
+* If you get errors about "failed to resolve output format" when running Hugo: `sudo rm -rf $TMPDIR/hugo_cache/`, then try again.
