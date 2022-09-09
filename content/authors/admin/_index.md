@@ -20,7 +20,7 @@ bio: I study the biochemisty of living systems, specifically large molecular mac
 interests:
   - Biochemistry and Biophysics 
   - DNA replication
-  - Chromatin remodellers 
+  - Chromatin remodelers 
   - Biology education 
 
 # Education to show in About widget
