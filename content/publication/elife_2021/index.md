@@ -1,38 +1,39 @@
 ---
-title: 'elife paper'
+title: 'A helicase-tethered ORC flip enables bidirectional helicase loading'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Larry J Friedman
+  - Jeff Gelles
+  - Stephen P Bell
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  -
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2021-12-09T00:00:00Z'
+doi: 'https://doi.org/10.7554/eLife.74282'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In eLife
+publication_short: In eLife
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:  Replication origins are licensed by loading two Mcm2-7 helicases around DNA in a head-to-head conformation poised to initiate bidirectional replication. This process requires origin–recognition complex (ORC), Cdc6, and Cdt1. Although different Cdc6 and Cdt1 molecules load each helicase, whether two ORC proteins are required is unclear. Using colocalization singlemolecule spectroscopy combined with single-molecule Förster resonance energy transfer (FRET), we investigated interactions between ORC and Mcm2-7 during helicase loading. In the large majority of events, we observed a single ORC molecule recruiting both Mcm2-7/Cdt1 complexes via similar interactions that end upon Cdt1 release. Between first- and second-helicase recruitment, a rapid change in interactions between ORC and the first Mcm2-7 occurs. Within seconds, ORC breaks the interactions mediating first Mcm2-7 recruitment, releases from its initial DNA-binding site, and forms a new interaction with the opposite face of the first Mcm2-7. This rearrangement requires release of the first Cdt1 and tethers ORC as it flips over the first Mcm2-7 to form an inverted Mcm2-7–ORC–DNA complex required for second-helicase recruitment. To ensure correct licensing, this complex is maintained until head-to-head interactions between the two helicases are formed. Our findings reconcile previous observations and reveal a highly coordinated series of events through which a single ORC molecule can load two oppositely oriented helicases.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: TODO short summary
 
 tags: []
 
@@ -56,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -65,15 +66,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
