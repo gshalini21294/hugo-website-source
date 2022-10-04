@@ -6,7 +6,7 @@ title: Shalini Gupta, PhD
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow, Genentech 
+role: Postdoctoral Fellow, Genentech San Francisco Bay Area
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -68,8 +68,9 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hello and welcome to my website! I am a {{< staticref "https://careers.gene.com/us/en/students-postdocs" "newtab" >}}postdoctoral fellow at Genentech{{< /staticref >}}, before which I was at MIT. I study the biochemisty of living systems, specifically large molecular machines that create incredible biology as a team. I am interested in exploring how increased understanding of molecular function is harnessed to manipulate biology in cells, and how new therapeutics are discovered. I am also passionate about teaching, mentoring, and effective communication. 
+
+In my PhD research with {{< staticref "https://biology.mit.edu/profile/stephen-bell/" "newtab" >}}Stephen P. Bell{{< /staticref >}} at MIT, I used single-molecule microscopy to discover how eukaryotic DNA helicases are deposited on DNA to ensure DNA replication is bidirectional. I discovered that a helicase-loader protein called the origin-recognition complex (ORC) performs a flip in order to recruit two copies of the eukaryotic DNA helicase in opposite orientations to one another. If this all sounds pretty unbelievable, check out our paper below to learn more! 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV (2022){{< /staticref >}}.
