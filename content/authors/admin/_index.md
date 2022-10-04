@@ -6,7 +6,7 @@ title: Shalini Gupta, PhD
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow, Genentech San Francisco Bay Area
+role: Postdoctoral Fellow, Genentech<br>San Francisco Bay Area
 
 # Organizations/Affiliations to show in About widget
 #organizations:
