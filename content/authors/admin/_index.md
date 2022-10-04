@@ -14,7 +14,7 @@ role: Postdoctoral Fellow, Genentech San Francisco Bay Area
   #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study the biochemisty of living systems, specifically large molecular machines that create incredible biology as a team. 
+bio: I study the biochemistry of living systems, specifically large molecular machines that create incredible biology as a team. 
 
 # Interests to show in About widget
 interests:
@@ -69,7 +69,7 @@ highlight_name: true
 ---
 
 
-Hello and welcome to my website! I am a {{< staticref "https://careers.gene.com/us/en/students-postdocs" "newtab" >}}postdoctoral fellow at Genentech{{< /staticref >}}, before which I was at MIT. I study the biochemisty of living systems, specifically large molecular machines that create incredible biology as a team. I am interested in exploring how increased understanding of molecular function is harnessed to manipulate biology in cells, and how new therapeutics are discovered. I am also passionate about teaching, mentoring, and effective communication. 
+Hello and welcome to my website! I am a {{< staticref "https://careers.gene.com/us/en/students-postdocs" "newtab" >}}postdoctoral fellow at Genentech{{< /staticref >}}, before which I was at MIT. I study the biochemistry of living systems, specifically large molecular machines that create incredible biology as a team. I am interested in exploring how increased understanding of molecular function is harnessed to manipulate biology in cells, and how new therapeutics are discovered. I am also passionate about teaching, mentoring, and effective communication. 
 
 In my PhD research with {{< staticref "https://biology.mit.edu/profile/stephen-bell/" "newtab" >}}Stephen P. Bell{{< /staticref >}} at MIT, I used single-molecule microscopy to discover how eukaryotic DNA helicases are deposited on DNA to ensure DNA replication is bidirectional. I discovered that a helicase-loader protein called the origin-recognition complex (ORC) performs a flip in order to recruit two copies of the eukaryotic DNA helicase in opposite orientations to one another. If this all sounds pretty unbelievable, check out our paper below to learn more! 
 
