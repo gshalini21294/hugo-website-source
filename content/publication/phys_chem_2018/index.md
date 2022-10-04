@@ -33,7 +33,7 @@ publication_short: In J. Phys. Chem. B
 abstract: Enhanced sampling of large number of collective variables (CVs) is inevitable in molecular dynamics (MD) simulations of complex chemical processes such as enzymatic reactions. Because of the computational overhead of hybrid quantum mechanical/molecular mechanical (QM/MM)-based MD simulations, especially together with density functional theory, predictions of reaction mechanism, and estimation of free-energy barriers have to be carried out within few tens of picoseconds. We show here that the recently developed temperature-accelerated sliced sampling method allows one to sample large number of CVs, thereby enabling us to obtain rapid convergence in free-energy estimates in QM/MM MD simulation of enzymatic reactions. Moreover, the method is shown to be efficient in exploring flat and broad free-energy basins that commonly occur in enzymatic reactions. We demonstrate this by studying deacylation and reverse acylation reactions of aztreonam drug catalyzed by a class-C β lactamase (CBL) bacterial enzyme. Mechanistic details and nature of kinetics of aztreonam hydrolysis by CBL are elaborated here. The results of this study point to characteristics of the aztreonam drug that are responsible for its slow hydrolysis.
 
 # Summary. An optional shortened abstract.
-summary: TODO short summary
+summary:
 
 tags: []
 
