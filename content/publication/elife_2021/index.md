@@ -6,7 +6,7 @@ title: 'A helicase-tethered ORC flip enables bidirectional helicase loading'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Larry J Friedman
+  - Larry J Friedman 
   - Jeff Gelles
   - Stephen P Bell
 
@@ -30,10 +30,13 @@ publication_types: ['2']
 publication: In eLife
 publication_short: In eLife
 
-abstract:  Replication origins are licensed by loading two Mcm2-7 helicases around DNA in a head-to-head conformation poised to initiate bidirectional replication. This process requires origin–recognition complex (ORC), Cdc6, and Cdt1. Although different Cdc6 and Cdt1 molecules load each helicase, whether two ORC proteins are required is unclear. Using colocalization singlemolecule spectroscopy combined with single-molecule Förster resonance energy transfer (FRET), we investigated interactions between ORC and Mcm2-7 during helicase loading. In the large majority of events, we observed a single ORC molecule recruiting both Mcm2-7/Cdt1 complexes via similar interactions that end upon Cdt1 release. Between first- and second-helicase recruitment, a rapid change in interactions between ORC and the first Mcm2-7 occurs. Within seconds, ORC breaks the interactions mediating first Mcm2-7 recruitment, releases from its initial DNA-binding site, and forms a new interaction with the opposite face of the first Mcm2-7. This rearrangement requires release of the first Cdt1 and tethers ORC as it flips over the first Mcm2-7 to form an inverted Mcm2-7–ORC–DNA complex required for second-helicase recruitment. To ensure correct licensing, this complex is maintained until head-to-head interactions between the two helicases are formed. Our findings reconcile previous observations and reveal a highly coordinated series of events through which a single ORC molecule can load two oppositely oriented helicases.
+abstract:  
+ Eukaryotic cells in the process of multipying need to faitfully duplicate the DNA. This process of DNA replication involves a number of molecular machines that act in concert, including the Mcm2-7 protein complex that forms the core of the eukaryoric replicative helicase. Two Mcm2-7 helicases are loaded at every potential replication initiation site in a head-to-head orientation. This orientation ensures that the DNA helicases are poised to initiate bidirectional replication. However, the mechanism by which the helicases are loaded in this fashion had remained unclear prior to our study. <br><br>
+
+ This article presents experiments that investigate interactions between the Mcm2-7 helicase and other helicase-loading proteins to build a detailed model to explain how the oppositely-oriented helicases are loaded on DNA. In a biochemically reconstituted helicase-loading reaction, we exposed tethered DNA to purified proteins that are labeled with fluorescent molecules. We used TIRF microscopy to track the labeled proteins and monitor how they interact with one another, and with DNA. These detailed experiments revealed remarkable gymnastics that a helicase-loading protein perfoms to guide loading of the oppositely-oriented Mcm2-7 helicases.
 
 # Summary. An optional shortened abstract.
-summary: TODO short summary
+summary: In this study I use single-molecule microscopy and FRET to discover how eukaryotic DNA helicases are deposited at origins in a head-to-head orientation that ensures DNA replication is bidirectional. 
 
 tags: []
 

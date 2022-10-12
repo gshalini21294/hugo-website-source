@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shalini Gupta, PhD
+title: Shalini Gupta
 
 # Is this the primary user of the site?
 superuser: true
@@ -69,7 +69,7 @@ highlight_name: true
 ---
 
 
-Hello and welcome to my website! I am a {{< staticref "https://careers.gene.com/us/en/students-postdocs" "newtab" >}}postdoctoral fellow at Genentech{{< /staticref >}}, before which I was at MIT. I study the biochemistry of living systems, specifically large molecular machines that create incredible biology as a team. I am interested in exploring how increased understanding of molecular function is harnessed to manipulate biology in cells, and how new therapeutics are discovered. I am also passionate about teaching, mentoring, and effective communication. 
+Hello and welcome to my website! I am a {{< staticref "https://careers.gene.com/us/en/students-postdocs" "newtab" >}}postdoctoral fellow at Genentech{{< /staticref >}}, before which I was a graduate student at MIT. I study the biochemistry of living systems, specifically large molecular machines that work in teams. I am interested in harnessing insight into molecular function to manipulate biology in cells, and for therapeutic discovery. I am also passionate about teaching, mentoring, and effective communication. 
 
 In my PhD research with {{< staticref "https://biology.mit.edu/profile/stephen-bell/" "newtab" >}}Stephen P. Bell{{< /staticref >}} at MIT, I used single-molecule microscopy to discover how eukaryotic DNA helicases are deposited on DNA to ensure DNA replication is bidirectional. I discovered that a helicase-loader protein called the origin-recognition complex (ORC) performs a flip in order to recruit two copies of the eukaryotic DNA helicase in opposite orientations to one another. If this all sounds pretty unbelievable, check out our paper below to learn more! 
 
