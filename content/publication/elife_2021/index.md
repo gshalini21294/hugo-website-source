@@ -5,7 +5,7 @@ title: 'A helicase-tethered ORC flip enables bidirectional helicase loading'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - admin_no_phd
   - Larry J Friedman
   - Jeff Gelles
   - Stephen P Bell

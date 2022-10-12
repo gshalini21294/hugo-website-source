@@ -6,7 +6,7 @@ title: 'Mechanism and kinetics of aztreonam hydrolysis catalyzed by class-C β-l
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Shalini Awasthi
-  - admin
+  - admin_no_phd
   - Ravi Tripathi
   - Nisanth N Nair
 
