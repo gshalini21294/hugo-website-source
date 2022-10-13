@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shalini Gupta
+title: Shalini Gupta, PhD
 
 # Is this the primary user of the site?
 superuser: true
