@@ -16,7 +16,7 @@ Usage:
   * `sed -i'' -e 's/CV.pdf">/CV.pdf" target="_blank">/' index.html` (Hugo does not allow us to configure the CV button along the top to open in a new tab, so we hack the HTML directly via this command.)
   * `git add .`
   * `git commit -m "<YOUR COMMIT MESSAGE HERE>"`
-  * `git push` (This pushes the changes to the `gshalini21294.github.io` repository, which triggers a rebuild of the live site, [gshalini.com](https://gshalini.com/).)
+  * `git push -f` (This pushes the changes to the `gshalini21294.github.io` repository, which triggers a rebuild of the live site, [gshalini.com](https://gshalini.com/).)
   * Wait ~2 minutes for the changes to be reflected on the live site.
   * Add, commit, and push the changes to the `hugo-website-source` repository as well!
 
