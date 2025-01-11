@@ -73,4 +73,4 @@ Hello and welcome to my website! I am a {{< staticref "https://careers.gene.com/
 
 In my PhD research with {{< staticref "https://biology.mit.edu/profile/stephen-bell/" "newtab" >}}Stephen P. Bell{{< /staticref >}} at MIT, I used single-molecule microscopy to discover how eukaryotic DNA helicases are deposited on DNA to ensure DNA replication is bidirectional. I discovered that a helicase-loader protein called the origin-recognition complex (ORC) performs a flip in order to recruit two copies of the eukaryotic DNA helicase in opposite orientations to one another. If this all sounds pretty unbelievable, check out our paper below to learn more! 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV (2022){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV (2025){{< /staticref >}}.
